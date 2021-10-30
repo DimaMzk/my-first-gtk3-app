@@ -1,5 +1,0 @@
-[Runtime]
-name=com.github.dimamzk.my_first_gtk3_app.Locale
-
-[ExtensionOf]
-ref=app/com.github.dimamzk.my-first-gtk3-app/x86_64/master
