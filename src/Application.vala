@@ -36,7 +36,7 @@
 
       // Add second row of widgets
       grid.attach(rotate_button, 0, 1);
-      grid.attach_next_to(rotate_label, rotate_button, Gtk.PositionTcd ..ype.RIGHT, 1, 1);
+      grid.attach_next_to(rotate_label, rotate_button, Gtk.PositionType.RIGHT, 1, 1);
 
       hello_button.clicked.connect (() => {
         hello_label.label = _("Hello World!");
