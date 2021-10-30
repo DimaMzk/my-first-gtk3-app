@@ -19,7 +19,7 @@ executable(
 
 #Translate and install our .desktop file
 i18n.merge_file(
-    input: 'data' / 'hmy-first-gtk3-app.desktop.in',
+    input: 'data' / 'my-first-gtk3-app.desktop.in',
     output: meson.project_name() + '.desktop',
     po_dir: meson.source_root() / 'po',
     type: 'desktop',
@@ -28,7 +28,7 @@ i18n.merge_file(
 )
 #Translate and install our .appdata file
 i18n.merge_file(
-    input: 'data' / 'hmy-first-gtk3-app.appdata.xml.in',
+    input: 'data' / 'my-first-gtk3-app.appdata.xml.in',
     output: meson.project_name() + '.appdata.xml',
     po_dir: meson.source_root() / 'po',
     install: true,
