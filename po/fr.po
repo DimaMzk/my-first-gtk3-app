@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.dimamzk.my-first-gtk3-app\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-30 12:18-0700\n"
+"POT-Creation-Date: 2021-10-30 14:19-0700\n"
 "PO-Revision-Date: 2021-10-30 12:18-0700\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,9 +17,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: src/Application.vala:16 src/Application.vala:20
+#: src/Application.vala:19 src/Application.vala:42
 msgid "Hello World!"
 msgstr "Bonjour Monde!"
+
+#: src/Application.vala:25
+msgid "Rotate"
+msgstr ""
+
+#: src/Application.vala:26
+msgid "Horizontal"
+msgstr ""
+
+#: src/Application.vala:48
+msgid "Vertical"
+msgstr ""
 
 #: data/my-first-gtk3-app.desktop.in:3
 msgid "Hello Again"
@@ -53,6 +65,6 @@ msgstr "Un slogan accrocheur"
 msgid ""
 "A quick summary of your app's main selling points and features. Just a "
 "couple sentences per paragraph is best."
-msgstr "Un bref résumé des principaux arguments de vente et fonctionnalités de votre application."
-"Juste quelques phrases par paragraphe est le meilleur."
-
+msgstr ""
+"Un bref résumé des principaux arguments de vente et fonctionnalités de votre "
+"application.Juste quelques phrases par paragraphe est le meilleur."
