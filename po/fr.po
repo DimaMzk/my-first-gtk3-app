@@ -19,38 +19,40 @@ msgstr ""
 
 #: src/Application.vala:16 src/Application.vala:20
 msgid "Hello World!"
-msgstr ""
+msgstr "Bonjour Monde!"
 
 #: data/my-first-gtk3-app.desktop.in:3
 msgid "Hello Again"
-msgstr ""
+msgstr "Rebonjour"
 
 #: data/my-first-gtk3-app.desktop.in:4
 msgid "Hello World App"
-msgstr ""
+msgstr "Application Bonjour tout le monde"
 
 #: data/my-first-gtk3-app.desktop.in:5
 msgid "Proves that we can use Vala and Gtk"
-msgstr ""
+msgstr "Prouve que nous pouvons utiliser Vala et Gtk"
 
 #: data/my-first-gtk3-app.desktop.in:8
 msgid "com.github.dimamzk.my-first-gtk3-app"
-msgstr ""
+msgstr "com.github.dimamzk.my-first-gtk3-app"
 
 #: data/my-first-gtk3-app.desktop.in:11
 msgid "Hello;World;Example;"
-msgstr ""
+msgstr "Hello;World;Example;"
 
 #: data/my-first-gtk3-app.appdata.xml.in:6
 msgid "My First GTK3 App"
-msgstr ""
+msgstr "Ma première application GTK3"
 
 #: data/my-first-gtk3-app.appdata.xml.in:7
 msgid "A Catchy Tagline"
-msgstr ""
+msgstr "Un slogan accrocheur"
 
 #: data/my-first-gtk3-app.appdata.xml.in:9
 msgid ""
 "A quick summary of your app's main selling points and features. Just a "
 "couple sentences per paragraph is best."
-msgstr ""
+msgstr "Un bref résumé des principaux arguments de vente et fonctionnalités de votre application."
+"Juste quelques phrases par paragraphe est le meilleur."
+
